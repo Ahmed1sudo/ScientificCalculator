@@ -1,0 +1,19 @@
+# Ignore IDE-specific folders
+.idea/
+*.iml
+
+# Ignore output/build files
+out/
+build/
+*.class
+
+# Ignore macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Ignore environment config files (optional)
+.env
+
+
